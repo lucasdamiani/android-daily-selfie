@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="nalsonlabs.dailyselfie.activities.ViewSelfieActivity"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/view_selfie_image_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="4"
+        android:padding="5dp"/>
+    <TextView
+        android:id="@+id/file_name_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="@dimen/abc_text_size_large_material"
+        android:padding="5dp"
+        android:gravity="center_horizontal" />
+    <Button
+        android:id="@+id/show_selfie_location_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/show_selfie_location_button"
+        android:layout_margin="5dp"/>
+
+</LinearLayout>

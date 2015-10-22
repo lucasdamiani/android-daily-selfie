@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Daily Selfie</string>
+    <string name="action_take_selfie">Take selfie</string>
+    <string name="action_delete_all">Delete all</string>
+    <string name="action_cancel_alarm">Cancel alarm</string>
+    <string name="action_set_alarm">Set alarm</string>
+    <string name="delete_all_selfies_confirmation_message">Do you want to delete all your selfies?</string>
+    <string name="delete_all_selfies_no">No</string>
+    <string name="delete_all_selfies_yes">Yes</string>
+    <string name="title_activity_view_selfie">Daily Selfie</string>
+    <string name="notification_content_title">Daily Selfie</string>
+    <string name="notification_content_text">It\'s time to take your selfie!</string>
+    <string name="title_activity_selfie_gallery">Daily Selfie</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_selfies_taken_message">Take your first selfie by clicking the camera button!</string>
+    <string name="share_menu">Share</string>
+    <string name="show_selfie_location_button">Show selfie location</string>
+    <string name="title_activity_selfie_location">Selfie location</string>
+    <string name="action_view_selfies">View selfies on map</string>
+</resources>
